@@ -1,18 +1,69 @@
-# 💫 About Me:
-💼 Codificando inovação com paixão e precisão. #CodeCraft<br>📚 Desbravando os complexos trilhos da engenharia de software com dedicação e uma sede constante por conhecimento. #AprendizadoContínuo<br>🚀 Explorando horizontes no mundo cativante do desenvolvimento Front End.  #AventurasNoFrontEnd
+# 💫 Sobre mim
 
+👋 Olá! Sou **Felipi Ribeiro**.<br>
+🎓 Graduando em **Engenharia de Software na UFC — Campus Russas** e técnico em **Informática pelo IFMA**.<br>
+💡 Bolsista do **Programa de Educação Tutorial (PET)**.<br>
+💻 Experiência em projetos acadêmicos e colaborativos de **desenvolvimento web, aplicações Android e análise de dados**.<br>
+🤝 Atuei em **gestão de pessoas e projetos na Include Jr.** e integrei a equipe **Aratinga Aerodesign**, participando da SAE BRASIL AeroDesign 2025.<br>
+🚀 Busco oportunidades para aplicar meus conhecimentos, colaborar em equipe e desenvolver soluções para problemas reais.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/felipi-ribeiro-39947a296) 
+## 🌐 Conecte-se comigo
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felpsrib&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=felpsrib&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsrib&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipi-ribeiro-39947a296)
+
+## 💻 Tecnologias utilizadas em projetos
+
+### 🌐 Web e Backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Desenvolvimento Mobile
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 📊 Análise de Dados e Computação Científica
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+
+### 🎨 Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 🚀 Projetos em destaque
+
+### 📚 Sistema Acadêmico
+Participação no desenvolvimento de um sistema com **JavaScript, Node.js e Express**, com API REST voltada ao gerenciamento de informações acadêmicas.
+
+### 📊 Impacto do Turismo nas Cidades
+Projeto colaborativo com **Python, Streamlit, Pandas e Plotly**, voltado à análise de impactos sociais, econômicos e ambientais do turismo em **oito municípios do Nordeste**.
+
+Desenvolvido no contexto do **Capacita Brasil C-Jovem**, em parceria com a **Embrapa e o BID**.
+
+### 🪞 Reflexão de Householder em 2D
+Projeto desenvolvido em equipe para visualizar transformações geométricas por meio de cálculos matriciais e animações com **Python, NumPy e Matplotlib**.
+
+[![Ver projeto](https://img.shields.io/badge/Ver_projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felpsrib/reflexao-householder-2d)
+
+### 📱 Aplicativo Android
+Participação em um projeto de aplicativo Android utilizando **Kotlin e Firebase**, ampliando minha experiência em desenvolvimento mobile.
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felpsrib&theme=blue-green&hide_border=false&show_icons=true&include_all_commits=true)<br>
+![Sequência de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=felpsrib&theme=blue-green&hide_border=false)<br>
+![Linguagens nos repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=felpsrib&theme=blue-green&hide_border=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=felpsrib&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+✨ Aprendendo, desenvolvendo e compartilhando conhecimento.
