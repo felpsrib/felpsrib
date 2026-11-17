@@ -1,6 +1,6 @@
 # 💫 Sobre mim
 
-👋 Olá! Sou **Felipi Ribeiro**.<br>
+👋 Olá! Me chamo **Felipi**.<br>
 🎓 Graduando em **Engenharia de Software na UFC — Campus Russas** e técnico em **Informática pelo IFMA**.<br>
 💡 Bolsista do **Programa de Educação Tutorial (PET)**.<br>
 💻 Experiência em projetos acadêmicos e colaborativos de **desenvolvimento web, aplicações Android e análise de dados**.<br>
